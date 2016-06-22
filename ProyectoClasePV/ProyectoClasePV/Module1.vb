@@ -8,6 +8,8 @@
 
         Console.WriteLine("Ayudenos con el proyecto :( ")
         Console.WriteLine("Ya me Quede :'( ")
+        Console.WriteLine("Chqt")
+
     End Sub
 
 End Module
