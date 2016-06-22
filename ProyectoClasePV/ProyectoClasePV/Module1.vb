@@ -3,9 +3,13 @@
     Sub Main()
         Console.WriteLine("hola mundo")
         Console.WriteLine("Cambios desde VS2013")
-        Console.WriteLine("Prueba de edición Lú")
-
+        Console.WriteLine("Aqui")
         Console.ReadLine()
+
+        Console.WriteLine("Ayudenos con el proyecto :( ")
+        Console.WriteLine("Ya me Quede :'( ")
+        Console.WriteLine("Chqt")
+
     End Sub
 
 End Module
