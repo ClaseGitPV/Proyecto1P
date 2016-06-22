@@ -7,6 +7,7 @@
         Console.ReadLine()
 
         Console.WriteLine("Ayudenos con el proyecto :( ")
+        Console.WriteLine("Ya me Quede :'( ")
     End Sub
 
 End Module
