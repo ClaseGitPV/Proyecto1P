@@ -10,3 +10,6 @@ Nicole lo siento D:
 ***
 ***
 Editado por JostyMayorga
+***
+Dim daniel As String
+***
