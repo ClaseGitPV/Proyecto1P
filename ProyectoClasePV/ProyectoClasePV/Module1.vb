@@ -13,15 +13,6 @@
         Console.WriteLine("4515")
 
 
-
-
-
-
-
-
-
-
-
         Console.WriteLine("Lalalalalalala----k")
 
         Console.ReadLine()
